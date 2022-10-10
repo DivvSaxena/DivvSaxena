@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Divv
 
-### 🔭 I’m currently working on ...Open Source
+### 🔭 I’m currently working on Open Source
 
-### 🌱 I’m currently learning ...DSA in Java
+### 🌱 I’m currently learning  DSA in Java
 
 
 <!--
