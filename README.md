@@ -4,7 +4,7 @@
 
 ### 🌱 I’m currently learning Java Html Css
 
-![Divv GitHub stats](https://github-readme-stats.vercel.app/api?username=Divv&show_icons=true&theme=radical)
+![Divv GitHub stats](https://github-readme-stats.vercel.app/api?username=DivvSaxena&show_icons=true&theme=dark)
 <!--
 **DivvSaxena/DivvSaxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
