@@ -2,9 +2,9 @@
 
 ### 🔭 I’m currently working on Open Source
 
-### 🌱 I’m currently learning  DSA in Java  + Html Css
+### 🌱 I’m currently learning Java Html Css
 
-
+![Divv's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivvSaxena&show_icons=true&theme=radical)
 <!--
 **DivvSaxena/DivvSaxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
