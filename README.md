@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Divv
 
-### 🔭 I’m currently working on Open Source
+### 🔭 I’m currently working on open source
 
-### 🌱 I’m currently learning Java Html Css
+### 🌱 I’m currently learning Java HTML CSS
 
 <!--
 **DivvSaxena/DivvSaxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
