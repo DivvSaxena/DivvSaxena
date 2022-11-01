@@ -9,6 +9,10 @@
  <a href="https://twitter.com/Divvstwt" target="blank"><img align="center"          src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
  <a href="https://www.linkedin.com/in/divv-saxena-6489a1247/" target="blank"><img align="center"  src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
   </p>
+  ### Github Stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=DivvSaxena&theme=onedark&show_icons=true&count_private=true)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=DivvSaxena&theme=onedark&layout=compact)
 <!--
 **DivvSaxena/DivvSaxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
