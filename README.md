@@ -11,4 +11,4 @@ I have good experience in developing **Web Apps**.
 
 - Email : **saxenadivv@gmail.com**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divvsaxena&show_icons=true&locale=en&layout=compact" alt="divvsaxena" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divvsaxena&show_icons=true&locale=en&layout=compact&theme=dark" alt="divvsaxena" /></p>
