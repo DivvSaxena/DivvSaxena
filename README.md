@@ -6,7 +6,7 @@ Coffee?
 
 # Divv Saxena
 
-> "I’m a 20-year-old explorer in the realms of code and design—crafting elegant web apps that save time and spark curiosity. Every project is a new adventure."
+> "I’m a 20-year-old explorer in the realms of code and design—crafting elegant web apps that save time and spark curiosity. Every project is a new adventure"
 
 - **Build:** Innovative, time-saving solutions.
 - **Connect:** [GitHub](https://github.com/DivvSaxena)
