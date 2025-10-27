@@ -1,8 +1,5 @@
 
 Coffee?
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamlteGJwemVrM3pqZzVjaXhhN2lxeGppbjhlZ2Q1cHc4MGZ4aWg1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5ffIYwJoEpVcMOYiO/giphy.gif" />
-</p>
 
 # Divv Saxena
 
