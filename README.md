@@ -10,7 +10,6 @@
 
 21-year-old based in India 🇮🇳 — currently building across engineering, content, and community.
 
-- 🚀 **Co-Founder** @ [Road Rat HQ](https://github.com/DivvSaxena) — modernising automotive software
 - 🎙️ **Developer & Video Editor** @ Hoda Labs · **Content Lead** @ Hoda Camps
 - 🌐 **Strategic Advisor** @ The AI Collective India
 - 🎓 B.Tech in AI & ML — Galgotias College (AKTU), graduating Aug 2026
