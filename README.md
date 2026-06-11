@@ -24,7 +24,7 @@ Coffee?
   <a href="mailto:hello@divvsaxena.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://divvsaxena.vercel.app/">
+  <a href="https://divvsaxena.com/">
     <img src="https://img.shields.io/badge/Portfolio-007acc?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 </p>
