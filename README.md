@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:c4b5fd&height=200&section=header&text=Divv%20Saxena&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Builder%20%C2%B7%20Content%20Creator%20%C2%B7%20Founding%20Engineer&descAlignY=58&descColor=c4b5fd&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:c4b5fd&height=200&section=header&text=𝒟𝒾𝓋𝓋%20𝒮𝒶𝓍ℯ𝓃𝒶&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Builder%20%C2%B7%20Content%20Creator%20%C2%B7%20Founding%20Engineer&descAlignY=58&descColor=c4b5fd&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -16,11 +16,11 @@
 const divv = {
   age        : 21,
   location   : "India 🇮🇳",
-  roles      : ["Co-Founder @ Road Rat HQ", "Developer @ Hoda Labs",
-                "Content Lead @ Hoda Camps", "Strategic Advisor @ AI Collective India"],
-  education  : "B.Tech AI & ML — (AKTU) · Aug 2026",
+  roles      : ["Developer @ Hoda Labs", "Content Lead @ Hoda Camps",
+                "Strategic Advisor @ AI Collective India"],
+  education  : "B.Tech AI & ML — AKTU · Aug 2026",
   shipped    : ["iOS Invoice App", "Polyglot", "Quizzical", "HomefrontCRM"],
-  currentlyBuilding : "Modern automotive software platform 🚗",
+  currentlyBuilding : "something in stealth 🤫",
   contact    : "hello@divvsaxena.com",
 };
 ```
@@ -34,6 +34,7 @@ const divv = {
 - 🎙️ Running **Beyond The Build** podcast — real conversations with founders, engineers & creators
 - 📱 Shipped my first iOS app to the App Store — invoicing for freelancers & businesses
 - 🌐 Grew & led **AI Collective India** — from zero to a thriving Delhi chapter
+- 🎓 Graduating B.Tech AI & ML from AKTU, Aug 2026
 - ✍️ Documenting everything publicly — building in the open on [LinkedIn](https://linkedin.com/in/divvsaxena)
 
 <br/>
@@ -68,7 +69,6 @@ const divv = {
 
 | Project | Description | Stack |
 |---|---|---|
-| 🚗 **Road Rat HQ** | Modern automotive software platform | Next.js, TypeScript, Multi-tenant arch |
 | 📱 **One-Tap Invoice** | iOS invoicing app for freelancers | SwiftUI, StoreKit 2 |
 | 💪 **Arogya AI** | Personalised AI diet & fitness for India | Next.js 15, Claude API |
 | 🌐 **Polyglot** | AI-powered language translation app | React, Groq, Llama3 |
