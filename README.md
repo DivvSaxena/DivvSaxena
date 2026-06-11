@@ -12,7 +12,6 @@
 
 - 🎙️ **Developer & Video Editor** @ Hoda Labs · **Content Lead** @ Hoda Camps
 - 🌐 **Strategic Advisor** @ The AI Collective India
-- 🎓 B.Tech in AI & ML — Galgotias College (AKTU), graduating Aug 2026
 - 📱 Shipped my first iOS app to the App Store — and building more
 - ✍️ Documenting the build process publicly on [LinkedIn](https://linkedin.com/in/divvsaxena)
 
