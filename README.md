@@ -18,7 +18,7 @@ const divv = {
   location   : "India 🇮🇳",
   roles      : ["Co-Founder @ Road Rat HQ", "Developer @ Hoda Labs",
                 "Content Lead @ Hoda Camps", "Strategic Advisor @ AI Collective India"],
-  education  : "B.Tech AI & ML — Galgotias College (AKTU) · Aug 2026",
+  education  : "B.Tech AI & ML — (AKTU) · Aug 2026",
   shipped    : ["iOS Invoice App", "Polyglot", "Quizzical", "HomefrontCRM"],
   currentlyBuilding : "Modern automotive software platform 🚗",
   contact    : "hello@divvsaxena.com",
