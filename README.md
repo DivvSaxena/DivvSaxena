@@ -34,7 +34,7 @@ I build products end to end, from the first Figma frame to the App Store. Most o
 
 - Shipping and iterating on the products above
 - Hosting [Beyond The Build](https://linkedin.com/in/divvsaxena): conversations with founders, engineers, and creators
-- Engineering at Hoda Labs · finishing a B.Tech in AI & ML (Aug 2026)
+- Engineering at Hoda Labs · B.Tech in AI & ML
 
 <br/>
 
@@ -52,8 +52,8 @@ I build products end to end, from the first Figma frame to the App Store. Most o
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DivvSaxena&show_icons=true&hide_border=true&bg_color=00000000&title_color=39d353&icon_color=39d353&text_color=8b949e&ring_color=39d353" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivvSaxena&layout=compact&hide_border=true&bg_color=00000000&title_color=39d353&text_color=8b949e" height="165" alt="Top languages" />
+<img src="https://github-readme-stats.hackclub.dev/api?username=DivvSaxena&show_icons=true&hide_border=true&bg_color=00000000&title_color=39d353&icon_color=39d353&text_color=8b949e&ring_color=39d353" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=DivvSaxena&layout=compact&hide_border=true&bg_color=00000000&title_color=39d353&text_color=8b949e" height="165" alt="Top languages" />
 
 <br/><br/>
 
