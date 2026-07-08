@@ -52,11 +52,6 @@ I build products end to end, from the first Figma frame to the App Store. Most o
 
 <div align="center">
 
-<img src="https://github-readme-stats.hackclub.dev/api?username=DivvSaxena&show_icons=true&hide_border=true&bg_color=00000000&title_color=39d353&icon_color=39d353&text_color=8b949e&ring_color=39d353" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=DivvSaxena&layout=compact&hide_border=true&bg_color=00000000&title_color=39d353&text_color=8b949e" height="165" alt="Top languages" />
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=DivvSaxena&hide_border=true&background=00000000&stroke=00000000&ring=39d353&fire=39d353&currStreakNum=e6edf3&currStreakLabel=39d353&sideNums=e6edf3&sideLabels=8b949e&dates=8b949e" alt="Contribution streak" />
 
 <br/><br/>
