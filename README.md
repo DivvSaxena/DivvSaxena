@@ -1,6 +1,6 @@
 # Divv Saxena
 
-21-year-old indie hacker building products on the internet.
+21 year old indie hacker building products on the internet.
 
 SwiftUI · TypeScript · Next.js
 
